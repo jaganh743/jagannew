@@ -3,10 +3,6 @@
     <h1>DevOps class room Learning</h1>
     <p>Please fill in this form</p>
     <hr>
-     
-    <label for="Name"><b>Please Enter Name</b></label>
-    <input type="text" placeholder="Please Enter Name" name="Name" id="Name" required>
-    <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter number" name="mobile" id="mobile" required>
