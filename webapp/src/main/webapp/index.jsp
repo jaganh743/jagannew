@@ -4,10 +4,6 @@
     <p>Please fill in this form</p>
     <hr>
     
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter number" name="mobile" id="mobile" required>
-    <br>
-
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
