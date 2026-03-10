@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
     <h1>DevOps class room Learning</h1>
-    <p>Please fill in this form</p>
     <hr>
 
     <label for="email"><b>Enter Email</b></label>
