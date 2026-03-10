@@ -3,7 +3,7 @@
     <h1>DevOps class room Learning</h1>
     <p>Please fill in this form</p>
     <hr>
-    
+
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
